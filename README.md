@@ -49,7 +49,7 @@ Esta é uma aplicação mobile desenvolvida com React Native e Expo que permite 
 
 ## 📄 Licença
 
-![GitHub License](https://img.shields.io/github/license/wiltonmartinsdev/next-note)
+![GitHub License](https://img.shields.io/badge/license-MIT-green)
 
 
 ## 📚 Aprendizados
