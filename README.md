@@ -31,9 +31,9 @@ Esta é uma aplicação mobile desenvolvida com React Native e Expo que permite 
 -   Após instalar todas as dependências necessárias do projeto, agora poderá executá-lo da seguinte maneira:
 -   Digite no terminal o comando abaixo:
 
-          npm run dev
+          npm run android ou ios
 
-          Após esse comando, o servidor será iniciado e aparecerá a mensagem: "Local: http://localhost:" informando que o servidor esta sendo executado e mostrará a porta de execução. A partir, desta etapa podemos testar a aplicação.
+          Após esse comando podemos testar a aplicação.
 
 ## ✨ Funcionalidades
 
